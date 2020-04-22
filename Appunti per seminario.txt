@@ -1,0 +1,406 @@
+Appunti per seminario
+
+SCALETTA
+
+============================================================
+                          DAY 1
+============================================================
+
+* Brevissima presentazione di chi sono(DAY1- Aboutme.ipynb)
+* Introduzione a Python(DAY1- Intro.ipynb)
+    - Cos'è Python e perche Python ?
+
+      -- Python is a clear and powerful
+        object-oriented programming language, comparable
+        to Perl, Ruby, Scheme, or Java.
+
+      -- Elenco di alcune importanti caratteristiche:
+
+          ### Sintassi semplice ed elegante: Rende i programmi più facili da scrivere e leggere
+          ### Questo rende Python ideal per prototipare e sviluppare programmi ad-hoc per svariate esigenze,
+          senza compromettere la "maintainability". PRIMO LINGUAGGIO IN MOLTE UNIVERSITA' ED ENTI DI RICERCA!!!
+          ### E' fornito "battery included". Ovvero è già dotato di una libreria standard di funzioni veramente ampia
+          che supporta già molte delle esigenze programmative più comuni: connessione a web-server, ricerca di testo
+          con espressioni regolari, lettura e modifica di file, etc.
+          ### La modalità interattiva di Python rende semplice testare piccoli "snippets" di codice. Inoltre
+          viene anche fornito conun ambiente di sviluppo chiamato IDLE
+          ### Si pùò facilmente ampliare aggiungendo nuovi moduli sviluppati con linguaggi compilati come C o C++.
+          ### Si può anche inserire in applicazioni più complesse per fornire una interfaccia programmabile(vedi Gimp).
+          ### E' free software 2 VOLTE: Uno perchè non costa niente scaricarlo ed utilizzarlo;
+          due Python può anche essere liberamente modificato e ridistribuito, perche, benchè il linguaggio sia sotto
+          "copyright", è però disponibile sotto una licenza OSI open source.
+          ### Altamente portabile:
+          -- gira praticamente su qualsiasi piattaforma dai server HPC alle workstation fino ai
+             microcontrollori(Raspy)
+          -- disponibile per Windows, Mac OSX, Linux, Unix, versioni non ufficiali per Android e
+            iOS. Ed anche per Solaris, VMS e molti altri!!!
+
+      -- Alcune caratteristiche tipiche della sintassi e struttura di Python
+
+          ### E' disponibile un varietà di tipi di dati di base quali: numeri (floating point, complex, and
+          unlimited-length long integers), stringhe (ASCII e Unicode), liste, e dizionari.
+          ### Python supporta la programmazione object-oriented con classi e ereditarietà multipla
+          ### Il codice può essere raggruppato in moduli e pacchetti.
+          ### Il linguaggio consente di intercettare e gestire "eccezioni/errori". Consentendo una gestione più pulita
+          proprio degli errori.
+          ### Le tipologie di dati sono severamente e dinamicamente "tipizzate" (classificate-categorizzate). Di conseguenza
+          operazioni su tipi diversi di dati(somma di un numero con una stringa) causano una "exception", cosicchè sia più
+          rapido intercettare degli errori.
+          ### Python fornisce caratteristiche di programmazione avanzate quali "generators" e "list comprehensions".
+          ### La gestione degli spazi di memoria in Python è automatica, svincolando l'utente da complessi procedure e dal rischio di "memory leak"
+          (vedi "malloc" e "calloc"in C).
+
+      -- Per cosa è usato?
+          ### prototipazione rapida
+          ### scripting per applicazioni web (es. impianto camera climatica)
+          ### programmi ad-hoc o "usa e getta"
+          ### molte applicazioni scientifiche
+          ### elaborazione XML
+          ### applicazioni database
+          ### applicazioni GUI
+          ### come linguaggio "collante"
+
+      -- Da chi è usato
+          https://wiki.python.org/moin/OrganizationsUsingPython
+          ### Google “Python where we can, C++ where we must.”
+          ### Dropbox
+          ### Instagram
+          ### YouTube
+          ### Wikipedia
+          ### CERN
+          ### NASA
+          ### ENEA ;-)
+
+
+      -- Python vs Java o altri linguaggi
+          ### codice più coinciso (es. immagini salvate)
+          ### In Java i dati devo essere di tipo dichiarato mentre in Python sono dinamicamente dichiarati
+          ### Sviluppo più rapido (no compilazione e tipizzazione)
+          ### Python E' PIU' LENTO
+
+    - Brevi cenni storici
+      -- Guido van Rossum, lo sviluppatore olandese che all'inizio degli anni '90 creò il linguaggio Python,
+      scelse questo nome non ispirandosi alla nota specie di rettili, ma al gruppo comico britannico Monty Python
+      e alla loro trasmissione televisiva, il Monty Python's Flying Circus
+
+    - Filosofia Python: import this  "The Zen of Python"
+
+* Primi passi(PrimiPassi.ipynb)
+
+    - Installare Python
+        ### Su Linux è già presente; ma lo si può installare attraverso i package manager oppure scaricando il tarball
+        dal sito www.python.org (configure - make - make install)
+        ### Anche su Mac OS X è già presente ma nella versione 2.7; per aggiornarlo alla versione più recente è sufficiente
+        scaricare il file pkg dal sito Python
+        ### Windows non ha nativo Python ma bisogna scaricare il pacchetto dal sito ed installarlo attraverso il classico setup.
+        Da poco per Windows 10 è anche disponibile Python 3.7 attraverso il MICROSOFT STORE
+    - HelloWorld.py 
+	 ### Primo programmino in Python
+	 ### Come scrivere un programma e lanciarlo
+            *** Panoramica IDE e terminali
+            *** Es. helloworld.py
+
+    - La console interattiva
+	###Programmi e moduli si differenziano fra loro solo per come vengono chiamati: un .py eseguito direttamente
+    		è un programma; se richiamato con "import" è un modulo
+       ### Importare moduli
+            *** vedi esempio sotto
+
+    - Commentare il codice
+
+    
+
+* TIPI DI DATI E VARIABILI 
+        ### Le variabili non necessitano di dichiarazione
+        ### le variabili devono essere create prima di essere usate!!!
+        ### Assegnazioni multiple esempio:
+                  a, b, c = 5, 3.2, "hello"
+        ### in Python qualsiasi cosa è un oggetto e quindi è rappresentato da un "tipo" (esempi di variabili e loro tipi)
+            *** a = 1
+            *** a = 'HELLO'
+            *** type(1.0)
+        ### Tipi numerici: int long float e complex (mettere esempi)
+        ### tipi sequenze: str bytes byte array list tuple (mettere esempi)
+        ### set sono una collezione di valori non ordinati e non indicizzati
+        ### dict Sono una sorta di array associativi con coppie chiave-valore
+
+        OGGETTI MUTABLES E OGGETTI IMMUTABLES:
+        ### In Python i tipi di dati si possono distinguere fra quelli che sono "mutable" e quelli invece "immutable"
+            Il contenuto di oggetti immutabili non può essere modificato dopo la loro creazione (TUPLE).
+            Tabella esplicativa.
+    - OPERATORI
+        ### Aritmentici
+          *** + - * / %(modulo) **(esponente) //(parte intera)
+        ### di Comparazione
+          *** == Uguaglianza != Not Equal > maggiore < minore  >= maggiore uguale <= minore uguale
+        ### Assegnazione
+          *** = già visto
+          *** += esempio:
+                x=3     x+=2  print(x) risultato 5
+                lo stesso vale per -= *= /= %= **= //=
+        ### Logici: and or not
+        ### Bitwise
+          *** & AND binario
+          *** | OR binario
+          *** ~ Complemento a uno
+          *** << shift a sx
+          *** >> shift a dx
+        ### di Appartenenza (Membership Op.)
+          *** "in" VERO se trova una variabile in una sequenza specificata
+          *** "not in"
+              VEDI ESEMPIO SOTTO
+        ### Identity
+          *** "is" Restituisce TRUE se gli operandi fanno riferimento al medesimo oggetto.
+                  Se x = "ciao" e y = "ciao" allora print(x is y) restituisce TRUE perché
+                  uguali per valore e identici per tipo di dato
+          *** "is not" Restituisce TRUE se gli operandi non fanno riferimento al medesimo oggetto
+    - COSTRUTTORI CONDIZIONALI
+    - CICLO for
+    - CICLO while
+    - CONTROLLO FLUSSO CON break e continue
+    - DEFINIZIONE DI FUNZIONI
+    - LISTE(Liste.ipynb)
+      ### Le liste sono uno tra i più versatili tipi di dati disponibili con Python.
+          L = [1, 2, 3, 4]
+          L2 = ["a, "b", "c", "d"]
+          L3 = [1, "ciao", 1998, “esempio”]
+      ### Operazioni con le liste
+          lunghezza               len([1,2,3])
+          somma di liste          [1,2,3] + [4,5,6]
+          ripetizione             ["ciao"] * 3
+          iterazione              for x in [1, 2, 3]: print(x)
+
+            Come si costruisce una lista:
+              L = []
+              for n in range(12):
+                L.append(n ** 2)
+              L
+            Come si costruisce la stessa lista con il meccanismo delle "list comprehensions":
+              [n **2 for n in range(12)]  FICHISSIMO!!! AGGIUNGERE ANCHE DETTAGLIO SPIEGAZIONE (VEDI SOTTO)
+      ### Operazioni con gli indici di liste
+            L = ["pippo", "Pippo", "PIPPO"]
+            l[2] ritorna "PIPPO"
+            L[-2] ritorna "Pippo"
+            L[1:] ritorna ["Pippo", "PIPPO"]
+      ### Funzioni built-in per Liste
+          len(lista)
+          max(lista)
+          min(lista)
+          list(seq) converte una tupla in lista
+      ### Metodi per liste
+          list.append(obj)
+          list.count(obj)
+          list.extend(seq)
+          list.index(obj)
+          list.insert(index, obj)
+          list.pop(obj=list[-1])
+          list.remove(obj)
+          list.reverse
+    – TUPLE
+      ### Le Tuple sono strutture "immutabili" ciò vuol dire che non possono essere
+          aggiornate o i loro elementi cambiati di valore.
+          tup1 = ('dte', 'pcu', 'spct')
+          tup2 = (1, 2, 3, 4, 5 )
+          tup3 = "a", "b", "c", "d"
+      ### Operazioni con le tuple
+          lunghezza               len(tup1) ---> ritorna 3
+          concatenazione          tup2 + tup3
+          ripetizione             ("ciao",) * 3
+          appartenenza            3 in (1,2,3) ---> ritorna True
+          iterazione
+      ### Indicizzazione, slicing e matrici con le tuple
+          L = ('spct', 'Spct', 'SPCT!')
+          L[2] --->ritorna 'SPCT!' offset parte da zero!!!!
+          L[-2] ---> ritorna 'Spct' <--- offset negativo
+          L[1:] ---> ritorna ('Spct', 'SPCT!')  <--- Questo è un esempio di slicing
+    - DIZIONARI
+    - GESTIONE FILE
+
+============================================================
+                          DAY 2
+============================================================
+
+**PYTHON FRAMEWORKS:
+- Data Science:
+    **Numpy
+    NumPy è un pacchetto FONDAMENTALE per qualsiasi tipo di elaborazione in
+    ambito scientifico fatta con Python.
+    Il package contiene:
+    un potente oggetto Array N-dimensionale
+    sofisticate funzioni di "broadcasting" (vedi esempio)
+    basic linear algebra functions
+    basic Fourier transforms
+    sophisticated random number capabilities
+    tools for integrating Fortran code
+    tools for integrating C/C++ code
+
+    Besides its obvious scientific uses, NumPy can also be used as an efficient
+    multi-dimensional container of generic data. Arbitrary data types can be defined.
+    This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
+
+    NumPy is a successor for two earlier scientific Python libraries: Numeric and Numarray.
+
+    Prendere materiale da nb/cs-228-material-master/tutorials/python C'è un nb con
+    introduzione a Numpy.
+
+    **Matplotlib
+        a mature and popular plotting package, that provides publication-quality
+        2D plotting as well as rudimentary 3D plotting
+        Matplotlib is useful for creating static 2D plots, the kind of plots
+        included in scientific publications and presentations. Almost any plot
+        created in Microsoft Excel can be created with Matplotlib. Matplotlib can
+        also be used to make 3D plots and animations
+    
+    **Pandas
+
+      - pandas, providing high-performance, easy to use data structures.
+    
+    
+    **Scipy (http://scipy.org)
+    SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source
+    software for mathematics, science, and engineering.
+    The scipy package contains various toolboxes dedicated to common issues in
+    scientific computing. Its different submodules correspond to different applications,
+    such as interpolation, integration, optimization, image processing, statistics,
+    special functions, etc.
+
+
+    
+        
+    
+      
+
+    **Altri pacchetti per il data science:
+      - SymPy, for symbolic mathematics and computer algebra.
+      - scikit-image is a collection of algorithms for image processing.
+      - scikit-learn is a collection of algorithms and tools for machine learning.
+      - h5py and PyTables can both access data stored in the HDF5 format.
+
+   
+    
+
+- Machine Learning
+- Game Development
+- Web Development: Django, Plone, CherryPy, Flask, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+                          ESEMPIO NAMESPACE
+================================================================================
+Quanto esposto può essere esemplificato tramite l'esempio seguente che nel caso del
+primo codice produrrà un errore a causa della mancata conversione di una variabile
+in variabile globale, mentre nel secondo funzionerà correttamente in quanto la variabile
+è stata passata come argomento alla funzione "global":
+
+# Assegnazione di un valore ad una variabile locale
+# Viene restituito solo il valore iniziale di x
+# La sottrazione produce un errore
+x = 10
+
+def xMenoY():
+
+  y = 2
+  x = x - y
+
+print(x)
+xMenoY()
+print(x)
+
+# Assegnazione di un valore ad una variabile globale
+# Vengono restituiti il valore iniziale di x e il risultato della sottrazione
+x = 10
+
+def xMenoY():
+  global x
+  y = 2
+  x = x - y
+
+print(x)
+xMenoY()
+print(x)
+================================================================================
+
+================================================================================
+                          ESEMPIO importazione moduli
+================================================================================
+
+from math import pi
+
+def getCirc(rad):
+  return 2*(pi*(rad ** 2))
+
+'''Print circonferenza '''
+
+print(getCirc(20))
+
+
+================================================================================
+                          ESEMPIO operatori di Membership
+===============================================================================
+
+x = 'Ciao Mondo'
+char = 'C'
+
+char in x    #ritorna TRUE
+
+for char in x:
+  print(char)
+
+
+================================================================================
+                          SPIEGAZIONE LIST COMPREHENSION
+===============================================================================
+List comprehensions fondamentalmente  sono state create e servono per "looping" su
+un dato "iterabile" e costruire una nuova lista. Quindi il FOCUS è sul dato di ritorno!
+Mentre i "for loops" servono principalmente per "looping" su un dato "iterabile"
+ma per fare qualcosa di utile sul singolo elemento dell'iterazione. Quindi il FOCUS
+è sull'azione da compiere e non sul dato di ritorno.
+
+Esempio:
+
+>>> [print(n) for n in range(1, 11)]
+Ritorna una lista "None" invece di stampare i numeri dell'intervallo, che invece
+possono essere stampati utilizzando un bel "for loop"
+
+for n in range(1, 11):
+    print(n)
+
+================================================================================
+                          ESEMPIO Numpy funzioni broadcasting
+===============================================================================
+
+# We will add the vector v to each row of the matrix x,
+# storing the result in the matrix y
+import numpy as np
+x = np.array([[1,2,3], [4,5,6], [7,8,9], [10, 11, 12]])
+v = np.array([1, 0, 1])
+y = np.empty_like(x)   # Create an empty matrix with the same shape as x
+
+# Add the vector v to each row of the matrix x with an explicit loop
+for i in range(4):
+    y[i, :] = x[i, :] + v
+
+print y
+
+invece che fare
+
+vv = np.tile(v, (4, 1))  # Stack 4 copies of v on top of each other
+print vv                 # Prints "[[1 0 1]
+                         #          [1 0 1]
+                         #          [1 0 1]
+                         #          [1 0 1]]"
+
+y = x + vv  # Add x and vv elementwise
+print y
