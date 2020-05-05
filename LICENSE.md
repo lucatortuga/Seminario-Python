@@ -94,8 +94,8 @@ Al fine di evitare dubbi, il presente Art. 4 si aggiunge ai, e non sostituisce i
 
 - b. Quando il Tuo diritto ad utilizzare il Materiale Concesso in Licenza sia cessato secondo quanto previsto dall'Art. 6(a), tale diritto è reintegrato:  
 
- 1. automaticamente a partire dal momento in cui il mancato adempimento è sanato, purché ciò si verifichi entro trenta giorni dal momento in cui Tu sei venuto a conoscenza del mancato adempimento; oppure  
- 2. su espressa reintegrazione da parte del Licenziante.  
+  1. automaticamente a partire dal momento in cui il mancato adempimento è sanato, purché ciò si verifichi entro trenta giorni dal momento in cui Tu sei venuto a conoscenza del mancato adempimento; oppure  
+  2. su espressa reintegrazione da parte del Licenziante.  
 Al fine di evitare dubbi, il presente Art. 6(b) non pregiudica alcun diritto di cui il Licenziante sia titolare al fine di ottenere rimedi a fronte della violazione da parte Tua della presente Licenza Pubblica.  
 
 - c. Al fine di evitare dubbi, il Licenziante si riserva il diritto di rilasciare il Materiale Concesso in Licenza sulla base di termini e condizioni separati da quelli della presente Licenza Pubblica o di cessare la distribuzione del Materiale Concesso in Licenza in qualsiasi momento; in ogni caso, tali decisioni non comporteranno la risoluzione della presente Licenza Pubblica.  
