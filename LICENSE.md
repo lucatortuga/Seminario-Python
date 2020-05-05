@@ -30,16 +30,16 @@ Con l'esercizio di uno qualunque dei Diritti Concessi in Licenza (sotto definiti
 ## Articolo 2 – Ambito di Applicazione.
 
 - a. **Concessione della Licenza.**
-    1. Nel rispetto dei termini e delle condizioni contenute nella presente Licenza Pubblica, il Licenziante concede a Te una licenza per tutto il mondo, gratuita, non sub-licenziabile, non esclusiva e irrevocabile che Ti autorizza ad esercitare i Diritti Concessi in Licenza sul Materiale Concesso in Licenza per:
-     - A. riprodurre e Condividere il Materiale Concesso in Licenza, in tutto o in parte; e  
-     - B. produrre, riprodurre e Condividere Materiale Elaborato.
-    2. Eccezioni e Limitazioni. Al fine di evitare dubbi, quando si applicano delle Eccezioni o Limitazioni al Tuo utilizzo, la presente Licenza Pubblica non si applica a Te e Tu non devi rispettarne i termini e le condizioni.
-    3. Durata. La durata della presente Licenza Pubblica è specificata all'interno dell'Art. 6(a).
-    4. Mezzi di comunicazione, supporti e formati; modifiche tecniche consentite. Il Licenziante Ti autorizza a esercitare i Diritti Concessi in Licenza con ogni mezzo di comunicazione, su ogni supporto e in tutti i formati esistenti e sviluppati in futuro, e ad apportare le modifiche che si rendessero tecnicamente necessarie a tale scopo. Il Licenziante rinuncia o si impegna a non far valere alcun diritto o autorità per proibire a Te di effettuare le modifiche che si rendessero tecnicamente necessarie per l'esercizio dei Diritti Concessi in Licenza, incluse le modifiche tecnicamente necessarie per aggirare Misure Tecnologiche Efficaci. Ai fini della presente Licenza Pubblica, apportare le modifiche autorizzate dal presente Art. 2(a)(4) non costituisce in alcun caso Materiale Elaborato.
-    5. Destinatari a valle.
+ 1. Nel rispetto dei termini e delle condizioni contenute nella presente Licenza Pubblica, il Licenziante concede a Te una licenza per tutto il mondo, gratuita, non sub-licenziabile, non esclusiva e irrevocabile che Ti autorizza ad esercitare i Diritti Concessi in Licenza sul Materiale Concesso in Licenza per:
+  - A. riprodurre e Condividere il Materiale Concesso in Licenza, in tutto o in parte; e  
+  - B. produrre, riprodurre e Condividere Materiale Elaborato.
+ 2. Eccezioni e Limitazioni. Al fine di evitare dubbi, quando si applicano delle Eccezioni o Limitazioni al Tuo utilizzo, la presente Licenza Pubblica non si applica a Te e Tu non devi rispettarne i termini e le condizioni.
+ 3. Durata. La durata della presente Licenza Pubblica è specificata all'interno dell'Art. 6(a).
+ 4. Mezzi di comunicazione, supporti e formati; modifiche tecniche consentite. Il Licenziante Ti autorizza a esercitare i Diritti Concessi in Licenza con ogni mezzo di comunicazione, su ogni supporto e in tutti i formati esistenti e sviluppati in futuro, e ad apportare le modifiche che si rendessero tecnicamente necessarie a tale scopo. Il Licenziante rinuncia o si impegna a non far valere alcun diritto o autorità per proibire a Te di effettuare le modifiche che si rendessero tecnicamente necessarie per l'esercizio dei Diritti Concessi in Licenza, incluse le modifiche tecnicamente necessarie per aggirare Misure Tecnologiche Efficaci. Ai fini della presente Licenza Pubblica, apportare le modifiche autorizzate dal presente Art. 2(a)(4) non costituisce in alcun caso Materiale Elaborato.
+ 5. Destinatari a valle.
       - A. Offerta dal Licenziante - Materiale Concesso in Licenza. Ogni destinatario del Materiale Concesso in Licenza riceve automaticamente un'offerta dal Licenziante ad esercitare i Diritti Concessi in Licenza secondo i termini e le condizioni della presente Licenza Pubblica.
       - B. Divieto di restrizioni a valle. Tu non puoi offrire o imporre termini e condizioni aggiuntive o differenti al, né applicare Misure Tecnologiche Efficaci sul, Materiale Concesso in Licenza che abbiano per effetto di restringere l'esercizio dei Diritti Concessi in Licenza da parte di qualsiasi destinatario del Materiale Concesso in Licenza.
-    6. Assenza di avallo. La presente Licenza Pubblica non concede né può essere interpretata in modo da concedere un'autorizzazione ad affermare o fare intendere che Tu o il Tuo utilizzo del Materiale Concesso in Licenza siate connessi, sponsorizzati, avallati o riconosciuti come ufficiali dal Licenziante o da altre parti designate a vedersi riconosciuta l'attribuzione in accordo con quanto previsto all'interno dell'Art. 3(a)(1)(A)(i).  
+ 6. Assenza di avallo. La presente Licenza Pubblica non concede né può essere interpretata in modo da concedere un'autorizzazione ad affermare o fare intendere che Tu o il Tuo utilizzo del Materiale Concesso in Licenza siate connessi, sponsorizzati, avallati o riconosciuti come ufficiali dal Licenziante o da altre parti designate a vedersi riconosciuta l'attribuzione in accordo con quanto previsto all'interno dell'Art. 3(a)(1)(A)(i).  
 
 - b. **Altri Diritti.**
 
