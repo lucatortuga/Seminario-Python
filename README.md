@@ -33,7 +33,7 @@ Alla destra del titolo è indicato un tempo approssimativo di esposizione.
  1. Gestione file e directory - prima parte.ipynb	(30 min.)
  2. Gestione file e directory - seconda parte.ipynb	(30 min.)
  3. Intro moduli Data Science .ipynb	(5 min.)
- 4. numpy.ipynb	(60 min.)
+ 4. numpy.ipynb	(90 min.)
  5. MEME
 
 ### Licenza
