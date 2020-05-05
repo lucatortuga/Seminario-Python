@@ -86,18 +86,23 @@ Al fine di evitare dubbi, il presente Art. 4 si aggiunge ai, e non sostituisce i
 
 - b. **Per quanto possibile, il Licenziante non sarà in alcun caso responsabile nei Tuoi confronti ad alcun titolo (incluso, tra gli altri, la negligenza) o altrimenti per qualunque danno diretto, speciale, indiretto, incidentale, consequenziale, punitivo, esemplare, o altra perdita, costo, spesa o danno derivante dalla presente Licenza Pubblica o dall'utilizzo del Materiale Concesso in Licenza, anche nel caso in cui il Licenziante sia stato edotto sulla possibilità di tali perdite, costi, spese o danni. Laddove una limitazione di responsabilità non sia consentita in tutto o in parte, questa limitazione può non essere applicabile a Te.**  
 
-- c. L'esclusione di garanzie e la limitazione di responsabilità di cui sopra deve essere interpretata in maniera che, nei limiti consentiti dalla legge applicabile, possa avvicinarsi quanto più possibile ad una esclusione totale e a uno scarico di ogni responsabilità.
-Articolo 6 – Durata e Risoluzione.
+- c. L'esclusione di garanzie e la limitazione di responsabilità di cui sopra deve essere interpretata in maniera che, nei limiti consentiti dalla legge applicabile, possa avvicinarsi quanto più possibile ad una esclusione totale e a uno scarico di ogni responsabilità.  
 
-La presente Licenza Pubblica è valida per tutta la durata dei Diritti d'Autore e Simili oggetto della presente Licenza Pubblica. Tuttavia, in caso di Tuo mancato adempimento dei termini e delle condizioni della presente Licenza Pubblica, i diritti che Ti sono concessi dalla presente Licenza Pubblica cesseranno automaticamente.
-Quando il Tuo diritto ad utilizzare il Materiale Concesso in Licenza sia cessato secondo quanto previsto dall'Art. 6(a), tale diritto è reintegrato:
+## Articolo 6 – Durata e Risoluzione.
 
-automaticamente a partire dal momento in cui il mancato adempimento è sanato, purché ciò si verifichi entro trenta giorni dal momento in cui Tu sei venuto a conoscenza del mancato adempimento; oppure
-su espressa reintegrazione da parte del Licenziante.
-Al fine di evitare dubbi, il presente Art. 6(b) non pregiudica alcun diritto di cui il Licenziante sia titolare al fine di ottenere rimedi a fronte della violazione da parte Tua della presente Licenza Pubblica.
-Al fine di evitare dubbi, il Licenziante si riserva il diritto di rilasciare il Materiale Concesso in Licenza sulla base di termini e condizioni separati da quelli della presente Licenza Pubblica o di cessare la distribuzione del Materiale Concesso in Licenza in qualsiasi momento; in ogni caso, tali decisioni non comporteranno la risoluzione della presente Licenza Pubblica.
-Gli Artt. 1, 5, 6, 7 e 8 rimangono validi in caso di risoluzione della presente Licenza.
-Articolo 7 – Altri Termini e Condizioni.
+- a. La presente Licenza Pubblica è valida per tutta la durata dei Diritti d'Autore e Simili oggetto della presente Licenza Pubblica. Tuttavia, in caso di Tuo mancato adempimento dei termini e delle condizioni della presente Licenza Pubblica, i diritti che Ti sono concessi dalla presente Licenza Pubblica cesseranno automaticamente.  
+
+- b. Quando il Tuo diritto ad utilizzare il Materiale Concesso in Licenza sia cessato secondo quanto previsto dall'Art. 6(a), tale diritto è reintegrato:  
+
+ 1. automaticamente a partire dal momento in cui il mancato adempimento è sanato, purché ciò si verifichi entro trenta giorni dal momento in cui Tu sei venuto a conoscenza del mancato adempimento; oppure  
+ 2. su espressa reintegrazione da parte del Licenziante.  
+Al fine di evitare dubbi, il presente Art. 6(b) non pregiudica alcun diritto di cui il Licenziante sia titolare al fine di ottenere rimedi a fronte della violazione da parte Tua della presente Licenza Pubblica.  
+
+- c. Al fine di evitare dubbi, il Licenziante si riserva il diritto di rilasciare il Materiale Concesso in Licenza sulla base di termini e condizioni separati da quelli della presente Licenza Pubblica o di cessare la distribuzione del Materiale Concesso in Licenza in qualsiasi momento; in ogni caso, tali decisioni non comporteranno la risoluzione della presente Licenza Pubblica.  
+
+- d. Gli Artt. 1, 5, 6, 7 e 8 rimangono validi in caso di risoluzione della presente Licenza.  
+
+## Articolo 7 – Altri Termini e Condizioni.
 
 Il Licenziante non sarà vincolato ad alcun altro termine o condizione aggiuntivo o differente che provenga da Te, salvo che ciò venga espressamente consentito.
 Ogni intesa, patto o accordo aggiuntivo riguardo al Materiale Concesso in Licenza non contenuto nella presente è da considerarsi separato ed indipendente dai termini e dalle condizioni della presente Licenza Pubblica.
