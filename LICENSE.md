@@ -43,30 +43,34 @@ Con l'esercizio di uno qualunque dei Diritti Concessi in Licenza (sotto definiti
 
 - b. **Altri Diritti.**
 
-   1. I diritti morali, come il diritto all'integrità, non sono oggetto della presente Licenza Pubblica, né lo sono il diritto all'immagine, il diritto alla riservatezza e/o altri simili diritti della personalità; in ogni caso, per quanto possibile, il Licenziante rinuncia o si impegna a non far valere alcuno dei diritti sopraccitati detenuti dal Licenziante, unicamente nei limiti della misura che sia indispensabile per consentire a Te di esercitare i Diritti Concessi in Licenza.
-   2.I diritti su brevetti e marchi non sono oggetto della presente Licenza Pubblica.
-   3. Per quanto possibile, il Licenziante rinuncia al diritto esclusivo di riscuotere da Te i compensi per l'esercizio dei Diritti Concessi in Licenza, personalmente o per tramite di un ente di gestione collettiva, relativi a qualsiasi sistema di licenza volontario o rinunciabile per legge o obbligatorio. In tutti gli altri casi, il Licenziante si riserva espressamente il diritto esclusivo a riscuotere tali compensi.  
+ 1. I diritti morali, come il diritto all'integrità, non sono oggetto della presente Licenza Pubblica, né lo sono il diritto all'immagine, il diritto alla riservatezza e/o altri simili diritti della personalità; in ogni caso, per quanto possibile, il Licenziante rinuncia o si impegna a non far valere alcuno dei diritti sopraccitati detenuti dal Licenziante, unicamente nei limiti della misura che sia indispensabile per consentire a Te di esercitare i Diritti Concessi in Licenza.
+ 2. I diritti su brevetti e marchi non sono oggetto della presente Licenza Pubblica.
+ 3. Per quanto possibile, il Licenziante rinuncia al diritto esclusivo di riscuotere da Te i compensi per l'esercizio dei Diritti Concessi in Licenza, personalmente o per tramite di un ente di gestione collettiva, relativi a qualsiasi sistema di licenza volontario o rinunciabile per legge o obbligatorio. In tutti gli altri casi, il Licenziante si riserva espressamente il diritto esclusivo a riscuotere tali compensi.  
 
 ## Articolo 3 – Condizioni della Licenza.
 
 Il Tuo esercizio dei Diritti Concessi in Licenza è espressamente soggetto alle seguenti condizioni.
 
-- a. *Attribuzione.*
+- a. **Attribuzione.**
 
-Se Tu Condividi il Materiale Concesso in Licenza (anche in forma modificata), Tu sei tenuto a:
+ 1. Se Tu Condividi il Materiale Concesso in Licenza (anche in forma modificata), Tu sei tenuto a:
 
-riportare, se fornito dal Licenziante assieme al Materiale Concesso in Licenza, ciò che segue:
-l'identificazione del creatore o dei creatori del Materiale Concesso in Licenza e delle terze parti designate a ricevere l'attribuzione, in qualsiasi maniera ragionevole che sia richiesta dal Licenziante (incluso lo pseudonimo, se designato);
-l'informativa sul diritto d'autore;
-l'informativa che si riferisce alla presente Licenza Pubblica;
-l'informativa contenente esclusioni o limitazioni di responsabilità;
-l'Uniform Resource Identifier (URI) o il collegamento ipertestuale alla presente Licenza Pubblica nella misura in cui sia ragionevolmente possibile;
-indicare se Tu hai modificato il Materiale Concesso in Licenza e, nel caso, conservare un'indicazione di ogni modifica precedente; e
-indicare che il Materiale Concesso in Licenza è rilasciato secondo i termini e le condizioni della presente Licenza Pubblica, e includere il testo della, oppure l'URI o il collegamento ipertestuale alla, presente Licenza Pubblica.
-Tu puoi adempiere alle condizioni dell'Art. 3(a)(1) in qualsiasi maniera ragionevole, rispetto al mezzo di comunicazione, al supporto, agli strumenti e al contesto all'interno del quale Tu Condividi il Materiale Concesso in Licenza. Ad esempio, può essere ragionevole soddisfare le condizioni fornendo l'URI o il collegamento ipertestuale a una risorsa che includa le informazioni richieste.
-Su richiesta del Licenziante, nella misura in cui ciò sia ragionevolmente praticabile, Tu devi rimuovere ognuna delle informazioni richieste dall'Art. 3(a)(1)(A).
-Se Tu Condividi Materiale Elaborato da Te prodotto, la Licenza dell'Elaboratore da Te applicata non deve impedire ai destinatari del Materiale Elaborato di adempiere ai termini e alle condizioni della presente Licenza Pubblica.
-Articolo 4 – Diritto Sui Generis sulle Banche Dati.
+  - A. riportare, se fornito dal Licenziante assieme al Materiale Concesso in Licenza, ciò che segue:
+    - l'identificazione del creatore o dei creatori del Materiale Concesso in Licenza e delle terze parti designate a ricevere l'attribuzione, in qualsiasi maniera ragionevole che sia richiesta dal Licenziante (incluso lo pseudonimo, se designato);
+    - l'informativa sul diritto d'autore;
+    - l'informativa che si riferisce alla presente Licenza Pubblica;
+    - l'informativa contenente esclusioni o limitazioni di responsabilità;
+    - l'Uniform Resource Identifier (URI) o il collegamento ipertestuale alla presente Licenza Pubblica nella misura in cui sia ragionevolmente possibile;
+  - B. indicare se Tu hai modificato il Materiale Concesso in Licenza e, nel caso, conservare un'indicazione di ogni modifica precedente; e
+  - C. indicare che il Materiale Concesso in Licenza è rilasciato secondo i termini e le condizioni della presente Licenza Pubblica, e includere il testo della, oppure l'URI o il collegamento ipertestuale alla, presente Licenza Pubblica.  
+
+ 2. Tu puoi adempiere alle condizioni dell'Art. 3(a)(1) in qualsiasi maniera ragionevole, rispetto al mezzo di comunicazione, al supporto, agli strumenti e al contesto all'interno del quale Tu Condividi il Materiale Concesso in Licenza. Ad esempio, può essere ragionevole soddisfare le condizioni fornendo l'URI o il collegamento ipertestuale a una risorsa che includa le informazioni richieste.  
+
+ 3. Su richiesta del Licenziante, nella misura in cui ciò sia ragionevolmente praticabile, Tu devi rimuovere ognuna delle informazioni richieste dall'Art. 3(a)(1)(A).  
+
+ 4. Se Tu Condividi Materiale Elaborato da Te prodotto, la Licenza dell'Elaboratore da Te applicata non deve impedire ai destinatari del Materiale Elaborato di adempiere ai termini e alle condizioni della presente Licenza Pubblica.  
+
+## Articolo 4 – Diritto Sui Generis sulle Banche Dati.
 
 Laddove i Diritti Concessi in Licenza dovessero includere il Diritto Sui Generis sulle Banche Dati che si applichi al Tuo utilizzo del Materiale Concesso in Licenza:
 
