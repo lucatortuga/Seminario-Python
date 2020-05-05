@@ -104,9 +104,11 @@ Al fine di evitare dubbi, il presente Art. 6(b) non pregiudica alcun diritto di 
 
 ## Articolo 7 – Altri Termini e Condizioni.
 
-Il Licenziante non sarà vincolato ad alcun altro termine o condizione aggiuntivo o differente che provenga da Te, salvo che ciò venga espressamente consentito.
-Ogni intesa, patto o accordo aggiuntivo riguardo al Materiale Concesso in Licenza non contenuto nella presente è da considerarsi separato ed indipendente dai termini e dalle condizioni della presente Licenza Pubblica.
-Articolo 8 – Interpretazione.
+- a. Il Licenziante non sarà vincolato ad alcun altro termine o condizione aggiuntivo o differente che provenga da Te, salvo che ciò venga espressamente consentito.  
+
+- b. Ogni intesa, patto o accordo aggiuntivo riguardo al Materiale Concesso in Licenza non contenuto nella presente è da considerarsi separato ed indipendente dai termini e dalle condizioni della presente Licenza Pubblica.  
+
+## Articolo 8 – Interpretazione.
 
 Al fine di evitare dubbi, la presente Licenza Pubblica non intende, né deve essere interpretata in modo da ridurre, limitare, restringere o condizionare alcun utilizzo del Materiale Concesso in Licenza che sia lecito anche in assenza di autorizzazione ai sensi della presente Licenza Pubblica.
 Nei limiti consentiti dalla legge applicabile, qualora una o più disposizioni della presente Licenza Pubblica siano giudicate invalide o inefficaci, saranno da intendersi rettificate nei limiti della misura che sia indispensabile per renderle valide ed efficaci. Se una o più disposizioni non possono essere rettificate, dovranno essere eliminate dalla presente Licenza Pubblica senza comportare l'invalidità o l'inefficacia dei restanti termini e condizioni.
