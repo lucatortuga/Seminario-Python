@@ -47,7 +47,7 @@ Con l'esercizio di uno qualunque dei Diritti Concessi in Licenza (sotto definiti
    2.I diritti su brevetti e marchi non sono oggetto della presente Licenza Pubblica.
    3. Per quanto possibile, il Licenziante rinuncia al diritto esclusivo di riscuotere da Te i compensi per l'esercizio dei Diritti Concessi in Licenza, personalmente o per tramite di un ente di gestione collettiva, relativi a qualsiasi sistema di licenza volontario o rinunciabile per legge o obbligatorio. In tutti gli altri casi, il Licenziante si riserva espressamente il diritto esclusivo a riscuotere tali compensi.  
 
-## Articolo 3 – Condizioni della Licenza.##
+## Articolo 3 – Condizioni della Licenza.
 
 Il Tuo esercizio dei Diritti Concessi in Licenza è espressamente soggetto alle seguenti condizioni.
 
