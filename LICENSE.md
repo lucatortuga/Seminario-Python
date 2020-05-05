@@ -1,6 +1,6 @@
 # LICENSE
-Questo Repository è rilasciato sotto la licenza *Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale*.
-For an ENGLISH traslation please [read here](https://creativecommons.org/licenses/by/4.0/)
+Questo Repository è rilasciato sotto la licenza **Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale**.
+For an ENGLISH translation please [read here](https://creativecommons.org/licenses/by/4.0/)
 
 L'Associazione Creative Commons ("Creative Commons") non è uno studio legale e non fornisce servizi legali né consulenze legali. La distribuzione di licenze pubbliche Creative Commons non instaura un rapporto avvocato-cliente né rapporti di altro tipo. I modelli di licenza e tutte le relative informazioni fornite da Creative Commons sono da considerarsi "così come sono". Creative Commons non presta alcuna garanzia per i suoi modelli di licenza, per qualsiasi materiale concesso in licenza secondo i termini e le condizioni dei modelli di licenza, né per le relative informazioni. Creative Commons si esime nei più ampi limiti possibili da ogni responsabilità per i danni derivanti dall'utilizzo degli stessi.
 
