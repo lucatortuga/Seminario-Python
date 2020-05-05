@@ -10,8 +10,8 @@ Scopo principale è mostrare, in modo NON ESAUSTIVO, le proprietà e possibilit�
 ### Struttura del seminario
 Il seminario è strutturato in 4 incontri da circa due ore e mezzo di "chiacchierata".  
 Alla destra del titolo è indicato un tempo approssimativo di esposizione.
-*Contenuti*:
--DAY1
+*Contenuti*:  
+[DAY1](./DAY1)
   1.	Intro.ipynb  (13 min.)
     1.0 1_0_Intro_OOP.ipynb (5 min.)
   2.	PrimiPassi-1 - Installare Python.ipynb (5 min.)
