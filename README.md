@@ -1,5 +1,6 @@
 # Seminario Basi di Python e strumenti per il Data Science
 Serie di Jupyter Notebook contenenti un'introduzione al linguaggio Python ed ai moduli o librerie più comuni per l'elaborazione scientifica.
+
 ### Prerequisiti
 Tutti i contenuti sono in formato Jupyter Notebook: Jupyter Notebook è un'applicazione web Open Source che permette la creazione e condivisione di documenti contenenti  codice "live", equazioni,visualizzazioni e testi narrativi. Per essere visualizzati, è necessario aver installato l'applicazione Jupyter Notebook.Tra le diverse modalità [disponibili](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html), nel seminario si consiglia l'installazione di [Anaconda](https://www.anaconda.com/products/individual).
 
@@ -53,3 +54,13 @@ Alla destra del titolo è indicato un tempo approssimativo di esposizione.
 ### Licenza
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>. Vedi [LICENSE.md](./LICENSE.md)
+
+### Crediti
+Alcune delle parti del seminario sono state ispirate e/o tradotte da:
+- [How to code in Python3 - Digital Ocean](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) di [Lisa Tagliaferri](https://lisatagliaferri.com/)
+- [tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) di [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/) e [Isaac Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335) basi di Python/Numpy.
+- [https://realpython.com/ on github](https://github.com/realpython/materials)
+- [Pandas Getting Started Tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
+- [matplotlib.org](https://matplotlib.org/)
+- https://people.unica.it/giulianoarmano/files/2013/06/numpy.pdf
+- https://www.math.unipd.it/~aiolli/corsi/1819/aa/PyA8--python_scientific.pdf
