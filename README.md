@@ -8,8 +8,8 @@ Questo _repo_ può essere usato "così com'è", oppure può essere modificato al
 Scopo principale è mostrare, in modo NON ESAUSTIVO, le proprietà e possibilità offerte dal linguaggio Python e dal suo ecosistema per il _Data Science_ . Questo al fine di offrire un'alternativa Open Source(libera ed a costo zero), a strumenti di calcolo ed analisi spesso economicamente troppo cari per enti di ricerca, università, scuole secondarie, etc.
 
 ### Struttura del seminario
-Il seminario è strutturato in 4 incontri da circa due ore e mezzo di "chiacchierata".  
-Alla destra del titolo è indicato un tempo approssimativo di esposizione.
+Il seminario è strutturato in 4 incontri da circa due ore e mezzo di "chiacchierata"(al netto di interruzioni e/o domande)(Mettere in conto 3 ore piene).  
+Alla destra del titolo è indicato un tempo approssimativo di esposizione.  
 *Contenuti*:  
 [DAY1](./DAY1)
   1.	Intro.ipynb  (13 min.)
@@ -29,6 +29,7 @@ Alla destra del titolo è indicato un tempo approssimativo di esposizione.
    8.3 Strutture di Controllo e Costruttori Condizionali: FOR.ipynb  (6 min.)
   9.	MEME
 
- 
+[DAY2](./DAY2)
+
 ### Licenza
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
