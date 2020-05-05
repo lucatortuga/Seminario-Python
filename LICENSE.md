@@ -72,13 +72,15 @@ Il Tuo esercizio dei Diritti Concessi in Licenza è espressamente soggetto alle 
 
 ## Articolo 4 – Diritto Sui Generis sulle Banche Dati.
 
-Laddove i Diritti Concessi in Licenza dovessero includere il Diritto Sui Generis sulle Banche Dati che si applichi al Tuo utilizzo del Materiale Concesso in Licenza:
+Laddove i Diritti Concessi in Licenza dovessero includere il Diritto Sui Generis sulle Banche Dati che si applichi al Tuo utilizzo del Materiale Concesso in Licenza:  
 
-al fine di evitare dubbi, l'Art. 2(a)(1) Ti concede il diritto di estrarre, riutilizzare, riprodurre e Condividere tutti i contenuti della banca dati o una loro parte sostanziale;
-se Tu estrai tutti i contenuti della banca dati o una loro parte sostanziale e li incorpori in una banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati, allora la banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati (ma non i suoi singoli contenuti) costituisce Materiale Elaborato; e
-Tu devi adempiere le condizioni dell'Art. 3(a) se Tu Condividi tutti i contenuti della banca dati o una loro parte sostanziale.
-Al fine di evitare dubbi, il presente Art. 4 si aggiunge ai, e non sostituisce i, Tuoi obblighi ai sensi della presente Licenza Pubblica, laddove i Diritti Concessi in Licenza dovessero includere Diritti d'Autore e Simili.
-Articolo 5 – Esclusione di Garanzie e Limitazione di Responsabilità.
+ a. al fine di evitare dubbi, l'Art. 2(a)(1) Ti concede il diritto di estrarre, riutilizzare, riprodurre e Condividere tutti i contenuti della banca dati o una loro parte sostanziale;  
+ b. se Tu estrai tutti i contenuti della banca dati o una loro parte sostanziale e li incorpori in una banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati, allora la banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati (ma non i suoi singoli contenuti) costituisce Materiale Elaborato; e  
+ c. Tu devi adempiere le condizioni dell'Art. 3(a) se Tu Condividi tutti i contenuti della banca dati o una loro parte sostanziale.  
+
+Al fine di evitare dubbi, il presente Art. 4 si aggiunge ai, e non sostituisce i, Tuoi obblighi ai sensi della presente Licenza Pubblica, laddove i Diritti Concessi in Licenza dovessero includere Diritti d'Autore e Simili.  
+
+## Articolo 5 – Esclusione di Garanzie e Limitazione di Responsabilità.
 
 Laddove il Licenziante non si sia separatamente impegnato altrimenti, per quanto possibile il Licenziante offre il Materiale Concesso in Licenza "così com'è" e "come disponibile", e non fornisce alcuna dichiarazione o garanzia di qualsiasi tipo con riguardo al Materiale Concesso in Licenza, sia essa espressa o implicita, di fonte legale o di altro tipo. Questo comprende, tra le altre, le garanzie relative al titolo, alla commerciabilità, all'idoneità per un fine specifico, alla non violazione di diritti di terzi, alla mancanza di difetti latenti o di altro tipo, all'esattezza o alla presenza o assenza di errori, siano o meno conosciuti o conoscibili. Laddove l'esclusione di garanzie non sia consentita in tutto o in parte, questa esclusione può non essere applicabile a Te.
 Per quanto possibile, il Licenziante non sarà in alcun caso responsabile nei Tuoi confronti ad alcun titolo (incluso, tra gli altri, la negligenza) o altrimenti per qualunque danno diretto, speciale, indiretto, incidentale, consequenziale, punitivo, esemplare, o altra perdita, costo, spesa o danno derivante dalla presente Licenza Pubblica o dall'utilizzo del Materiale Concesso in Licenza, anche nel caso in cui il Licenziante sia stato edotto sulla possibilità di tali perdite, costi, spese o danni. Laddove una limitazione di responsabilità non sia consentita in tutto o in parte, questa limitazione può non essere applicabile a Te.
