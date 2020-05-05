@@ -30,6 +30,11 @@ Alla destra del titolo è indicato un tempo approssimativo di esposizione.
   9.	MEME
 
 [DAY2](./DAY2)
+ 1. Gestione file e directory - prima parte.ipynb	(30 min.)
+ 2. Gestione file e directory - seconda parte.ipynb	(30 min.)
+ 3. Intro moduli Data Science .ipynb	(5 min.)
+ 4. numpy.ipynb	(60 min.)
+ 5. MEME
 
 ### Licenza
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
