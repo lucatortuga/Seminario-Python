@@ -27,14 +27,21 @@ Alla destra del titolo è indicato un tempo approssimativo di esposizione.
   8.	Strutture di Controllo e Costruttori Condizionali: IF.ipynb  (7 min.)
    8.2 Strutture di Controllo e Costruttori Condizionali: WHILE.ipynb  (6 min.)
    8.3 Strutture di Controllo e Costruttori Condizionali: FOR.ipynb  (6 min.)
-  9.	MEME
+  9.	MEME DEL GIORNO
 
 [DAY2](./DAY2)
  1. Gestione file e directory - prima parte.ipynb	(30 min.)
  2. Gestione file e directory - seconda parte.ipynb	(30 min.)
  3. Intro moduli Data Science .ipynb	(5 min.)
  4. numpy.ipynb	(90 min.)
- 5. MEME
+ 5. MEME DEL GIORNO
+ 
+[DAY3](./DAY3)
+ 1.	matplotlib.ipynb (30 min.)
+ 2.	pandas- prima parte.ipynb (20 min.)
+ 3.	pandas- seconda parte.ipynb (20 min.)
+ 4.	pandas- terza parte.ipynb (20 min.)
+ 5.	MEME DEL GIORNO
 
 ### Licenza
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
