@@ -74,9 +74,9 @@ Il Tuo esercizio dei Diritti Concessi in Licenza è espressamente soggetto alle 
 
 Laddove i Diritti Concessi in Licenza dovessero includere il Diritto Sui Generis sulle Banche Dati che si applichi al Tuo utilizzo del Materiale Concesso in Licenza:  
 
- a. al fine di evitare dubbi, l'Art. 2(a)(1) Ti concede il diritto di estrarre, riutilizzare, riprodurre e Condividere tutti i contenuti della banca dati o una loro parte sostanziale;  
- b. se Tu estrai tutti i contenuti della banca dati o una loro parte sostanziale e li incorpori in una banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati, allora la banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati (ma non i suoi singoli contenuti) costituisce Materiale Elaborato; e  
- c. Tu devi adempiere le condizioni dell'Art. 3(a) se Tu Condividi tutti i contenuti della banca dati o una loro parte sostanziale.  
+ - a. al fine di evitare dubbi, l'Art. 2(a)(1) Ti concede il diritto di estrarre, riutilizzare, riprodurre e Condividere tutti i contenuti della banca dati o una loro parte sostanziale;  
+ - b. se Tu estrai tutti i contenuti della banca dati o una loro parte sostanziale e li incorpori in una banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati, allora la banca dati sulla quale Tu detieni il Diritto Sui Generis sulle Banche Dati (ma non i suoi singoli contenuti) costituisce Materiale Elaborato; e  
+ - c. Tu devi adempiere le condizioni dell'Art. 3(a) se Tu Condividi tutti i contenuti della banca dati o una loro parte sostanziale.  
 
 Al fine di evitare dubbi, il presente Art. 4 si aggiunge ai, e non sostituisce i, Tuoi obblighi ai sensi della presente Licenza Pubblica, laddove i Diritti Concessi in Licenza dovessero includere Diritti d'Autore e Simili.  
 
